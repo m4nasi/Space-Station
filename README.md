@@ -1,6 +1,6 @@
 # ISS-Space-Station
 
-This is a Python program ran on Trinket and in this project you will use a web service to find out the current location of the International Space Station (ISS) and plot its location on a map. 
+This is a Python program ran on Trinket and in this project I used a web service to find out the current location of the International Space Station (ISS) and plot its location on a map. 
 
 For this project you need: 
 - Trinket, an online editor
