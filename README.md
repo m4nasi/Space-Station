@@ -12,3 +12,7 @@ ISS will be over your location, by inputting your longitude and latitude (it is 
 In the screenshot below you can see that the yellow is when it would pass over London and the where the space craft is currently.
 
 ![ISS Image](https://github.com/m4nasi/Space-Station/blob/main/ISS%20Image.JPG)
+
+In the screenshot below you can see what is printed when the program runs.
+
+![ISS Image](https://github.com/m4nasi/Space-Station/blob/main/ISS%20Image.JPG)
