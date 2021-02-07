@@ -15,4 +15,4 @@ In the screenshot below you can see that the yellow is when it would pass over L
 
 In the screenshot below you can see what is printed when the program runs.
 
-![ISS Image](https://github.com/m4nasi/Space-Station/blob/main/ISS%20Image.JPG)
+![ISS People](https://github.com/m4nasi/Space-Station/blob/main/ISS%20People.JPG)
